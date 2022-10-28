@@ -3,13 +3,13 @@ html{
 }
 
 body{
-    background-color:rgb(249, 242, 232);
     max-width: 1440px;
     margin: 0 auto;
     font-size: 1.6rem;
 }
 
 .cabecalho{
+    background-color:rgb(250, 237, 219);
     padding: 30px 15px;
     position: relative;
 }
